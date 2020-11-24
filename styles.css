@@ -1,0 +1,16 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: turquoise;
+}
+li {
+    list-style-type: none;
+    display: inline;
+    padding: 20px;
+}
+.different {
+    font-size: 30px;
+}
+img {
+    margin: 0 auto;
+    padding-left: 300px;
+}
